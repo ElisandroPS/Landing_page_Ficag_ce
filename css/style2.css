@@ -60,16 +60,16 @@
 
 
 .img_background1{
-    background-image: url(../Img/IMG-20191218-WA0090.jpg);
+    background-image: url(/Img/IMG-20191218-WA0090.jpg);
 }
 
 .img_background2{
-    background-image: url(../Img/IMG-20191227-WA0034.jpg);    
+    background-image: url(/Img/IMG-20191227-WA0034.jpg);    
 }
 
 
 .img_background3{
-    background-image: url(../Img/IMG-20200428-WA0053.jpg);   
+    background-image: url(/Img/IMG-20200428-WA0053.jpg);   
 }
 
 .carrosselSlide{
